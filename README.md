@@ -1,131 +1,35 @@
-# Hi, I'm Shabil Dixon 👋
+Hi 👋 My name is Shabil Dixon
+=============================
 
-### Software Engineer | Frontend & Full-Stack Web Development
+Software Engineer | Frontend & Full-Stack Web Development
+---------------------------------------------------------
 
 I’m a software engineer focused on building polished, API-driven web applications using React, Next.js, TypeScript, Supabase, and PostgreSQL.
 
 My recent work has centered around authentication systems, protected API routes, database-backed applications, and responsive product-focused UI/UX. I enjoy building applications that balance clean frontend experiences with scalable backend architecture and real-world usability.
 
----
+My background in systems programming and security concepts has also given me a strong understanding of software behavior across multiple layers, from frontend interfaces to backend data flow and application security.
 
-## 🚀 Current Focus
+Currently, I’m continuing to deepen my skills in full-stack architecture, authentication flows, API design, PostgreSQL integration, and production-ready web application development.
 
-* Full-stack application architecture
-* Authentication & authorization flows
-* PostgreSQL + Supabase integration
-* API route design
-* Responsive frontend systems
-* Production-ready web applications
+* 🌍  I'm based in United States
+* 🖥️  See my portfolio at [Shabil's Portfolio](http://career-portfolio-delta.vercel.app/)
+* ✉️  You can contact me at [shabil.dixon@gmail.com](mailto:shabil.dixon@gmail.com)
+* 🧠  I'm currently learning Backend architecture, authentication systems, PostgreSQL optimization, API design, and scalable frontend systems
+* 👥  I'm looking to collaborate on Frontend and full-stack web applications, AI-assisted products, and modern SaaS platforms
+* 💬  Ask me about I enjoy building applications that combine strong UI/UX, scalable architecture, and real-world usability while continuing to grow deeper into full-stack and systems-focused development.
 
----
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" alt="Fedora" title="Fedora" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
+</p>
 
-# Featured Projects
+### Socials
 
-## CareerTrack Dashboard
+<p align="left"> <a href="https://www.github.com/muh-dixon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/shabil-dixon-ba7ab8263/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+### Badges
 
-Authenticated full-stack job application tracker built with Next.js, React, TypeScript, Supabase Auth, PostgreSQL, and Tailwind CSS.
+<b>My GitHub Stats</b>
 
-### Highlights
+<a href="http://www.github.com/muh-dixon"><img src="https://github-readme-stats.vercel.app/api?username=muh-dixon&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="muh-dixon's GitHub stats" /></a>
 
-* Protected API routes
-* User-specific application management
-* PostgreSQL persistence
-* Proxy-based route protection
-* Row Level Security (RLS)
-* Search/filtering and duplicate detection
-* Responsive dashboard UI
-
-**Tech Stack:**
-Next.js • React • TypeScript • Supabase • PostgreSQL • Tailwind CSS • Vercel
-
-🌐 Live Demo: [Add Link Here]
-💻 GitHub: [Add Repo Link Here]
-
----
-
-## AI Resume Assistant
-
-Full-stack AI-powered resume enhancement platform designed to generate recruiter-ready project descriptions and resume content.
-
-### Highlights
-
-* OpenAI API integration
-* Dynamic prompt workflows
-* Backend API routes
-* Before/after comparison
-* Loading states and error handling
-* Responsive UI design
-
-**Tech Stack:**
-Next.js • React • TypeScript • Tailwind CSS • OpenAI API • Vercel
-
-🌐 Live Demo: [Add Link Here]
-💻 GitHub: [Add Repo Link Here]
-
----
-
-## Skinstric AI Platform
-
-AI-inspired skincare analysis application with multi-step onboarding and interactive results flow.
-
-### Highlights
-
-* Multi-step onboarding workflow
-* REST API integration
-* Base64 image handling
-* Responsive animations and transitions
-* Interactive results dashboard
-
-**Tech Stack:**
-Next.js • React • TypeScript • Tailwind CSS • REST APIs
-
-🌐 Live Demo: [Add Link Here]
-💻 GitHub: [Add Repo Link Here]
-
----
-
-# 🛠️ Tech Stack
-
-### Frontend
-
-* React
-* Next.js
-* TypeScript
-* Tailwind CSS
-* JavaScript
-* HTML/CSS
-
-### Backend & Data
-
-* Supabase
-* PostgreSQL
-* Firebase
-* Firestore
-* REST APIs
-* Authentication & Authorization
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* Vercel
-* VS Code
-* Figma
-* Linux
-
----
-
-# 📈 GitHub Stats
-
-<a href="https://github.com/muh-dixon">
-  <img src="https://github-readme-stats.vercel.app/api?username=muh-dixon&show_icons=true&hide=stars&count_private=true&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&bg_color=0f172a&hide_border=true" />
-</a>
-
----
-
-# 🌐 Connect With Me
-
-* LinkedIn: https://www.linkedin.com/in/muhammad-shabil-dixon-ba7ab8263
-* Portfolio: https://career-portfolio-delta.vercel.app/
-* GitHub: https://github.com/muh-dixon
-* Email: [shabil.dixon@gmail.com](mailto:shabil.dixon@gmail.com)
+<a href="https://github.com/muh-dixon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muh-dixon&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
